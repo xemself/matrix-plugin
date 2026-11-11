@@ -1,0 +1,24 @@
+{
+  "name": "matrix",
+  "description": "Matrix by Xemself: the Matrix connector and the matrix skill, for an organization's members and agents - Projects and tasks, threads and messages, files and packages, deals, the worker and intake agents, people and access, the hand-off note.",
+  "author": {
+    "name": "Xemself"
+  },
+  "homepage": "https://github.com/xemself/matrix-plugin",
+  "keywords": [
+    "xemself",
+    "matrix",
+    "projects",
+    "mcp"
+  ],
+  "skills": [
+    "./skills"
+  ],
+  "mcpServers": {
+    "matrix": {
+      "type": "http",
+      "url": "https://api.matrix.xemself.ai/mcp"
+    }
+  },
+  "version": "0.1.0"
+}

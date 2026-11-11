@@ -1,0 +1,17 @@
+{
+  "name": "matrix",
+  "description": "Matrix by Xemself: the Matrix connector and the matrix skill, for an organization's members and agents - Projects and tasks, threads and messages, files and packages, deals, the worker and intake agents, people and access, the hand-off note.",
+  "owner": {
+    "name": "Xemself"
+  },
+  "plugins": [
+    {
+      "name": "matrix",
+      "source": "./",
+      "strict": true,
+      "description": "Matrix by Xemself: the Matrix connector and the matrix skill, for an organization's members and agents - Projects and tasks, threads and messages, files and packages, deals, the worker and intake agents, people and access, the hand-off note.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}
